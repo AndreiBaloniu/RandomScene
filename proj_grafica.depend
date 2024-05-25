@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1685474402 source:c:\users\andre\desktop\proj_grafica\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<math.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"model.h"
+	"mesh.h"
+	"obiect.h"
+	"scena.h"
+	"stb/stb_image.h"
+
+1646864444 source:c:\users\andre\desktop\proj_grafica\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1652091990 source:c:\users\andre\desktop\proj_grafica\mesh.cpp
+	"mesh.h"
+
+1649682260 c:\users\andre\desktop\proj_grafica\mesh.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<string>
+	<vector>
+
+1685375723 source:c:\users\andre\desktop\proj_grafica\model.cpp
+	"model.h"
+
+1650986002 c:\users\andre\desktop\proj_grafica\model.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<stb/stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"mesh.h"
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+
+1651969305 source:c:\users\andre\desktop\proj_grafica\obiect.cpp
+	"obiect.h"
+
+1651140230 c:\users\andre\desktop\proj_grafica\obiect.h
+	"model.h"
+	<iostream>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1685474179 source:c:\users\andre\desktop\proj_grafica\scena.cpp
+	"scena.h"
+
+1685474402 c:\users\andre\desktop\proj_grafica\scena.h
+	"obiect.h"
+	<iostream>
+
