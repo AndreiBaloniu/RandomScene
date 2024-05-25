@@ -1,0 +1,352 @@
+# Blender MTL File: 'Dodge_SRT_Hellcat.blend'
+# Material Count: 33
+
+newmtl Black_Fuel_Cap
+Ns 751.111099
+Ka 0.058333 0.058333 0.058333
+Kd 0.008965 0.008261 0.008261
+Ks 0.116667 0.116667 0.116667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Black_Panels
+Ns 751.111099
+Ka 0.058333 0.058333 0.058333
+Kd 0.008965 0.008261 0.008261
+Ks 0.116667 0.116667 0.116667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Black_Trim
+Ns 266.944428
+Ka 0.058333 0.058333 0.058333
+Kd 0.008965 0.008261 0.008261
+Ks 0.116667 0.116667 0.116667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Brake_Caliper
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Brake_Caliper_Normal.png
+map_Kd C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Brake_Caliper_BaseColor.png
+map_Ns C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Brake_Caliper_Roughness.png
+refl C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Brake_Caliper_Metallic.png
+
+newmtl Brake_Disc
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Brake_Disc_Nut
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Normal.png
+map_Kd C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_BaseColor.png
+map_Ns C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Roughness.png
+refl C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Metallic.png
+
+newmtl Brake_Disc_Tubes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Normal.png
+map_Kd C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_BaseColor.png
+map_Ns C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Roughness.png
+refl C:\\Users\\andre\\AppData\\Local\\WHEELS\\Wheel_1_Textures\\Brake_Caliper_1_Wheel_Nuts_Metallic.png
+
+newmtl Brake_Hub
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Car_Paint_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Car_Paint_Normal.png
+map_Kd C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Car_Paint_BaseColor.png
+map_Ns C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Car_Paint_Roughness.png
+refl C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Car_Paint_Metallic.png
+
+newmtl Car_Seat_Black
+Ns 44.099991
+Ka 1.000000 1.000000 1.000000
+Kd 0.022000 0.022000 0.022000
+Ks 0.425000 0.425000 0.425000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Car_Seat_Red
+Ns 44.099991
+Ka 1.000000 1.000000 1.000000
+Kd 0.250531 0.004036 0.005265
+Ks 0.425000 0.425000 0.425000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Centre_Display
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Chrome
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dodge_Wheel
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.262000 0.258000 0.283000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Fuel_Cap
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Headlight_Glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl License_Back
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl License_Plate
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Main_Display
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Mirror_Glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Radio
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Rear_Centre_Light
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Red_Rear_Lights
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Red_Rear_Lights_Normal.png
+map_Kd C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Red_Rear_Lights_BaseColor.png
+map_Ns C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Red_Rear_Lights_Roughness.png
+refl C:\\Users\\andre\\AppData\\Local\\Temp\\Dodge_Textures\\Dodge_56_Red_Rear_Lights_Metallic.png
+
+newmtl Reflectors
+Ns 470.300120
+Ka 1.000000 1.000000 1.000000
+Kd 0.748401 0.005948 0.005948
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl SRT_Logo_Front
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.930000 0.913000 0.831000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Silver
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.930000 0.913000 0.831000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Silver.001
+Ns 809.999997
+Ka 1.000000 1.000000 1.000000
+Kd 0.930000 0.913000 0.831000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Steering_Wheel_Cont
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tyre_Left
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tyre_Right
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl White_Lights
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Window_Glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,38 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 3
+
+newmtl BusMaterial
+Ns 19.607843
+Ka 0.498000 0.498000 0.498000
+Kd 0.498000 0.498000 0.498000
+Ks 0.498000 0.498000 0.498000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd BaseColor.png
+map_Ka 
+
+newmtl standard
+Ns 19.607843
+Ka 0.501900 0.501900 0.501900
+Kd 0.501900 0.501900 0.501900
+Ks 0.501900 0.501900 0.501900
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Tr1.jpg
+map_Ka Tr1.jpg
+
+newmtl standard_NONE
+Ns 19.607843
+Ka 0.501900 0.501900 0.501900
+Kd 0.501900 0.501900 0.501900
+Ks 0.501900 0.501900 0.501900
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka Tr1.jpg
+map_Kd Tr1.jpg
